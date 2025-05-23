@@ -1,1 +1,3 @@
-# Project-Board
+# Project-Board 
+
+Closes #2
